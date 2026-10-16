@@ -5,7 +5,7 @@ using RaceDay.Api.Filters;
 using RaceDay.Api.Helpers;
 using RaceDay.Api.Models;
 using RaceDay.Api.Models.Dtos;
-
+ 
 namespace RaceDay.Api.Controllers;
 
 [ApiController]
